@@ -1,0 +1,22 @@
+{
+  "name": "ble-packet-parser",
+  "version": "0.1.0",
+  "description": "Bluetooth 4.0 LE packet parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/basic.js"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/mfgCode/ble-packet-parser.git"
+  },
+  "keywords": [
+    "ble",
+    "bluetooth",
+    "smart",
+    "packet",
+    "parser"
+  ],
+  "author": "Martin Grädler",
+  "license": "MIT"
+}
